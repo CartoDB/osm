@@ -1,0 +1,6 @@
+{
+    "cachedir": "/mnt/imposm3_cache",
+    "connection": "postgis://osm:osm@localhost:5432/osm?sslmode=disable&prefix=NONE",
+    "mapping": "/home/ubuntu/imposm3/cartodb_mapping.json",
+    "srid": 4326
+}
