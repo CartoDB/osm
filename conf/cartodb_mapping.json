@@ -137,6 +137,7 @@
                 "polygons": {
                     "aeroway": ["__any__"],
                     "amenity": ["__any__"],
+                    "boundary": ["__any__"],
                     "building": ["__any__"],
                     "harbour": ["__any__"],
                     "historic": ["__any__"],
